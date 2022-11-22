@@ -3,7 +3,8 @@
 <p> Tiny library/example of how to make pyscript work with native java apps <br>
 For those wandering this implementation is completely hard coded, expect things to break, and for expert code readers expect to read crappy code :D <br>
 Im not affiliated with the PyScript project <br>
-PyScript repository here : https://github.com/pyscript/pyscript </p>
+PyScript repository here : https://github.com/pyscript/pyscript <br>
+on relase page there is the working test</p>
 
 <h2>FAQ</h2>
 <p> How to run PyScript library offline?<br></p>
