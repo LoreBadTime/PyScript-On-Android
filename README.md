@@ -15,5 +15,6 @@ to <script defer src="./pyscript.js"></script>
 
 </p>
 </li>
+</ol>
 
-
+<p>I might continue to develop (rewrite better everything to have something really usable,since i done things really rapidly and for fun) if enough people can find this useful </p>
