@@ -7,7 +7,7 @@ PyScript repository here : https://github.com/pyscript/pyscript </p>
 
 <h2>FAQ</h2>
 <p> How to run PyScript library offline?<br></p>
-<ol><li> Download the entire file https://pyscript.net/unstable/pyscript.js</li>
+<ol><li> Download the entire file from pyscript website https://pyscript.net/unstable/pyscript.js</li>
 <li>Place it in src\main\assets </li>
 <li><p>dify the src\main\assets\pyscript.html to use the new import<br>
 from <script defer src="https://pyscript.net/unstable/pyscript.js"></script> <br>
