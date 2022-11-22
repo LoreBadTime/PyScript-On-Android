@@ -10,7 +10,7 @@ PyScript repository here : https://github.com/pyscript/pyscript </p>
 <ol><li> Download the entire file from pyscript website https://pyscript.net/unstable/pyscript.js</li>
 <li>Place it in src\main\assets </li>
 <li><p> modify the src\main\assets\pyscript.html to use the new import<br>
-from <script defer src="https://pyscript.net/unstable/pyscript.js"></script> <br>
+from "<script defer src="https://pyscript.net/unstable/pyscript.js"></script>" <br>
 to <script defer src="./pyscript.js"></script>
 
 </p>
